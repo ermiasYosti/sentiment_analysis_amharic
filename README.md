@@ -1,6 +1,6 @@
-# Twitter Sentiment Analysis
+# Sample TV and RAdio Audionce Sentiment Analysis (benchmarck tweeter sentiment anlaysis)
 
-# Author: Michael Erb
+# Author: Ermias Sene(supported by Michael Erb)
 
 # Problem
 
